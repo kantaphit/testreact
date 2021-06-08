@@ -1,6 +1,6 @@
 import React from "react";
 
-class App extends React.Component {
+class Test1 extends React.Component {
   state = {
     txt: "Click Button",
   };
@@ -28,4 +28,4 @@ class App extends React.Component {
     );
   }
 }
-export default App;
+export default Test1;
